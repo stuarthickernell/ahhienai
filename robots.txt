@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wohfusuabi.alfredkirakosian.com/sitemap.xml
